@@ -18,4 +18,4 @@ In each folder of SV3, DA0.2:
 
 copy of my version of `xirunpc.py` - original found at https://github.com/desihub/LSS/blob/main/scripts/xirunpc.py - I have made additions to allow cutting to volume-limited samples and splitting into colour (needs to be placed in the appropriate location in LSS directory to run)
 
-copy of my version of `mkCat_main.py` - original found at https://github.com/desihub/LSS/blob/main/scripts/main/mkCat_main.py - edited by Sam and myself to work with the version of k-correction code at the time (propbably now out of date?)
+copy of my version of `mkCat_main.py` - original found at https://github.com/desihub/LSS/blob/main/scripts/main/mkCat_main.py - edited by Sam and myself to work with the version of k-correction code at the time (propbably now out of date?) (needs to be placed in the appropriate location in LSS directory to run)
